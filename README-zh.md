@@ -249,4 +249,4 @@ yum install -y bzip2-libs
 [返回目录](#目录)
 
   [1]: http://www.bzip.org/
-  [1]: http://luajit.org/ext_ffi.html
+  [2]: http://luajit.org/ext_ffi.html
