@@ -1,4 +1,6 @@
 
+DO NOT use in production !
+
 modified from https://github.com/xiaooloong/lua-resty-bzlib
 
 # lua-bzlib
